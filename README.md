@@ -28,7 +28,7 @@ Depois de todas as análises e codificação serem feitas, crie uma solicitaçã
 
 ## **Motivação:**
 
-Este teste avalia sua capacidade de resolver problemas complexos de análise de dados, utilizando habilidades em programação. A capacidade de comunicar seus resultados através de storytelling também será considerada na avaliação.
+Este teste avalia sua capacidade de resolver problemas de análise de dados, utilizando habilidades em programação. A capacidade de comunicar seus resultados através de storytelling também será considerada na avaliação.
 
 ## **Envio da Solução:**
 
