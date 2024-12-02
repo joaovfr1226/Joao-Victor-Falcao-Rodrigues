@@ -1,0 +1,9 @@
+Assunto: Problema ao Enviar o Banco de Dados para o Repositório GitHub
+
+Prezado Marcelo,
+
+Espero que esteja bem.
+
+Gostaria de informar que encontrei um problema técnico ao tentar fazer o envio do banco de dados test_analytics.db para o repositório do projeto. O arquivo possui um tamanho superior a 100MB (aproximadamente 1GB), o que excede o limite de tamanho imposto pelo GitHub.
+
+Por conta disso, não consegui completar o processo de envio do arquivo para o repositório, porém basta rodar o código que o banco é gerado automaticamente.
